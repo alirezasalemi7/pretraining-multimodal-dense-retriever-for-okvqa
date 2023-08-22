@@ -5,3 +5,7 @@ This paper studies a category of visual question answering tasks, in which acces
 ## Codes
 
 will be provided soon!
+
+## Acknowledgment
+
+This work was supported in part by the Center for Intelligent Information Retrieval, in part by Lowes, and in part by NSF grant #2106282. Any opinions, findings and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect those of the sponsor.
